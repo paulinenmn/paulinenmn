@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **paulinenmn/paulinenmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 👋 Hello, I'm Pauline!
+
+I'm a French developer with a master's degree in computer science.  
+🚀 Currently working on solo projects and exploring open-source development.  
+💡 Passionate about learning and experimenting with new technologies.  
+
+### 🛠 Tech Stack
+- 💻 Languages: JavaScript, TypeScript, Dart, Python
+- 🌐 Frontend: React, Flutter
+- 🔧 Backend: Node.js (Express), MongoDB
+- 🛠 Tools: Git, Docker, Linux
+
+
+### 📫 Get in Touch
+- LinkedIn: www.linkedin.com/in/pauline-neumann-842098176
+- Email: paulineneumann.travail@gmail.com
