@@ -20,11 +20,12 @@ I'm a French developer with a master's degree in computer science.
 
 ### 🛠 Tech Stack
 - 💻 Languages: JavaScript, TypeScript, Dart, Python
-- 🌐 Frontend: React, Flutter
-- 🔧 Backend: Node.js (Express), MongoDB
-- 🛠 Tools: Git, Docker, Linux
+- 🌐 Frontend: React, Flutter, Next, TailWind
+- 🔧 Backend: Node.js (Express), MongoDB, Firebase
+- 🛠 Tools: Git, Docker, Linux, Kubernetes, n8n, DataBricks
 
 
 ### 📫 Get in Touch
 - LinkedIn: www.linkedin.com/in/pauline-neumann-842098176
 - Email: paulineneumann.travail@gmail.com
+- Portfolio & Freelance: https://www.popsipops.fr/
