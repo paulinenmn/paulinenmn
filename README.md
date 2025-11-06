@@ -19,9 +19,9 @@ I'm a French developer with a master's degree in computer science.
 💡 Passionate about learning and experimenting with new technologies.  
 
 ### 🛠 Tech Stack
-- 💻 Languages: JavaScript, TypeScript, Dart, Python
+- 💻 Languages: JavaScript, TypeScript, Dart, Python, PHP
 - 🌐 Frontend: React, Flutter, Next, TailWind
-- 🔧 Backend: Node.js (Express), MongoDB, Firebase
+- 🔧 Backend: Node.js (Express), MongoDB, Firebase, Symfony
 - 🛠 Tools: Git, Docker, Linux, Kubernetes, n8n, DataBricks
 
 
